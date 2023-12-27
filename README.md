@@ -26,8 +26,8 @@ To utilize RoImage:
 2. API processes and returns UI frames.
 3. Implement these frames in-game for image display.
 
-## Examples
-(Include code snippets or screenshots demonstrating how RoImage can be used.)
+## Example
+![Example of usage](https://i.imgur.com/kizWq4s.png)
 
 ## Support
 For queries or support, please contact me using any method linked on https://varialbe.xyz .
